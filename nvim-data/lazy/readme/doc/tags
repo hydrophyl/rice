@@ -1,0 +1,52 @@
+!_TAG_FILE_ENCODING	utf-8	//
+darkplus.nvim-activate	darkplus.nvim.md	/## Activate
+darkplus.nvim-install	darkplus.nvim.md	/## Install
+darkplus.nvim-showcase	darkplus.nvim.md	/## Showcase
+nvim-web-devicons-contributing	nvim-web-devicons.md	/## Contributing
+nvim-web-devicons-get-all-icons	nvim-web-devicons.md	/### Get all icons
+nvim-web-devicons-get-icon	nvim-web-devicons.md	/### Get Icon
+nvim-web-devicons-get-icon-and-color-code	nvim-web-devicons.md	/### Get icon and color code
+nvim-web-devicons-getting-icons-by-filetype	nvim-web-devicons.md	/### Getting icons by filetype
+nvim-web-devicons-installation	nvim-web-devicons.md	/## Installation
+nvim-web-devicons-nvim-web-devicons	nvim-web-devicons.md	/# Nvim-web-devicons
+nvim-web-devicons-requirements	nvim-web-devicons.md	/## Requirements
+nvim-web-devicons-set-an-icon	nvim-web-devicons.md	/### Set an icon
+nvim-web-devicons-setup	nvim-web-devicons.md	/### Setup
+nvim-web-devicons-usage	nvim-web-devicons.md	/## Usage
+nvim-web-devicons-variants	nvim-web-devicons.md	/### Variants
+plenary.nvim-a-quick-example	plenary.nvim.md	/#### A quick example
+plenary.nvim-colors	plenary.nvim.md	/#### Colors
+plenary.nvim-faq	plenary.nvim.md	/### FAQ
+plenary.nvim-getting-started	plenary.nvim.md	/#### Getting started
+plenary.nvim-installation	plenary.nvim.md	/## Installation
+plenary.nvim-modules	plenary.nvim.md	/## Modules
+plenary.nvim-plenary-async	plenary.nvim.md	/### plenary.async
+plenary.nvim-plenary-async-control-channel-mpsc	plenary.nvim.md	/### plenary.async.control.channel.mpsc
+plenary.nvim-plenary-async-control-channel-oneshot	plenary.nvim.md	/### plenary.async.control.channel.oneshot
+plenary.nvim-plenary-async-lib	plenary.nvim.md	/### plenary.async_lib
+plenary.nvim-plenary-collections	plenary.nvim.md	/### plenary.collections
+plenary.nvim-plenary-context-manager	plenary.nvim.md	/### plenary.context_manager
+plenary.nvim-plenary-filetype	plenary.nvim.md	/### plenary.filetype
+plenary.nvim-plenary-job	plenary.nvim.md	/### plenary.job
+plenary.nvim-plenary-neorocks	plenary.nvim.md	/### plenary.neorocks
+plenary.nvim-plenary-nvim	plenary.nvim.md	/# plenary.nvim
+plenary.nvim-plenary-path	plenary.nvim.md	/### plenary.path
+plenary.nvim-plenary-popup	plenary.nvim.md	/### plenary.popup
+plenary.nvim-plenary-profile	plenary.nvim.md	/### plenary.profile
+plenary.nvim-plenary-scandir	plenary.nvim.md	/### plenary.scandir
+plenary.nvim-plenary-strings	plenary.nvim.md	/### plenary.strings
+plenary.nvim-plenary-test-harness	plenary.nvim.md	/### plenary.test_harness
+plenary.nvim-plenary-window	plenary.nvim.md	/### plenary.window
+plenary.nvim-plugins-using-this	plenary.nvim.md	/#### Plugins using this
+plenary.nvim-troubleshooting	plenary.nvim.md	/### Troubleshooting
+transparent.nvim-aknowledgement	transparent.nvim.md	/## Aknowledgement
+transparent.nvim-commands	transparent.nvim.md	/## Commands
+transparent.nvim-faq	transparent.nvim.md	/## FAQ
+transparent.nvim-how-to-enable-transparent-for-plugin-panels	transparent.nvim.md	/### How to enable transparent for plugin panels?
+transparent.nvim-installation	transparent.nvim.md	/## Installation
+transparent.nvim-migration-guide-2023-3-20	transparent.nvim.md	/## Migration Guide 2023\/3\/20
+transparent.nvim-transparent-nvim	transparent.nvim.md	/# transparent.nvim
+transparent.nvim-usage	transparent.nvim.md	/## Usage
+vim-bbye-aliasing-to-bclose	vim-bbye.md	/### Aliasing to :Bclose
+vim-bbye-buffer-delete-vs-wipeout	vim-bbye.md	/### Buffer delete vs wipeout
+vim-bbye-closing-all-open-buffers-and-files	vim-bbye.md	/### Closing all open buffers and files
