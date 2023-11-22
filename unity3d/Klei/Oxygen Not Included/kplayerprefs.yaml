@@ -1,0 +1,35 @@
+strings:
+  INSTALL_TIMESTAMP: 638359909366263450
+  InstalledLanguage: 
+  SelectedLanguageType: None
+  SelectedLanguageCode: ''
+  SaveFilenameKey/: /home/min/.config/unity3d/Klei/Oxygen Not Included/cloud_save_files/76561198103452897/The FatCat Family/The FatCat Family.sav
+  SandboxTools.SelectedEntity: MushBar
+  SandboxTools.SelectedDisease: FoodPoisoning
+  SandboxTools.SelectedStory: MorbRoverMaker
+ints:
+  SESSION_ID: 2
+  LowResTextures: 0
+  ResolutionWidth: 1920
+  ResolutionHeight: 1080
+  RefreshRate: 60
+  FullScreen: 1
+  ColorModeID: 0
+  GAME_ID: 0
+  SandboxTools.SelectedElement: 122
+  SandboxTools.DiseaseCount: 0
+  SandboxTools.BrushSize: 1
+  SandbosTools.MoraleAdjustment: 50
+floats:
+  Volume_SFX: 1
+  Volume_Music: 1
+  Volume_Ambience: 1
+  Volume_Master: 1
+  Volume_UI: 1
+  CameraSpeed: 1
+  SandboxTools.NoiseScale: 1
+  SandboxTools.NoiseDensity: 1
+  SandboxTools.Mass: 1
+  SandbosTools.Temperature: 300
+  SandbosTools.TemperatureAdditive: 5
+  SandbosTools.StressAdditive: 50

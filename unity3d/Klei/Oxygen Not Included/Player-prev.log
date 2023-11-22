@@ -1,0 +1,422 @@
+Mono path[0] = '/run/media/min/Secondary/SteamLibrary/steamapps/common/OxygenNotIncluded/OxygenNotIncluded_Data/Managed'
+Mono config path = '/run/media/min/Secondary/SteamLibrary/steamapps/common/OxygenNotIncluded/OxygenNotIncluded_Data/MonoBleedingEdge/etc'
+Preloaded 'cimgui.so'
+Preloaded 'libSimDLL.so'
+Preloaded 'libfmodstudio.so'
+Preloaded 'libresonanceaudio.so'
+Preloaded 'libsdkencryptedappticket.so'
+Preloaded 'libsteam_api.so'
+Display 0 'C27F390 27"': 1920x1080 (primary device).
+Desktop is 1920 x 1080 @ 60 Hz
+Initialize engine version: 2020.3.30f1 (1fb1bf06830e)
+[Subsystems] Discovering subsystems at path /run/media/min/Secondary/SteamLibrary/steamapps/common/OxygenNotIncluded/OxygenNotIncluded_Data/UnitySubsystems
+GfxDevice: creating device client; threaded=1
+Renderer: NVIDIA GeForce RTX 2060/PCIe/SSE2
+Vendor:   NVIDIA Corporation
+Version:  4.5.0 NVIDIA 545.29.02
+GLES:     0
+ GL_AMD_multi_draw_indirect GL_AMD_seamless_cubemap_per_texture GL_AMD_vertex_shader_viewport_index GL_AMD_vertex_shader_layer GL_ARB_arrays_of_arrays GL_ARB_base_instance GL_ARB_bindless_texture GL_ARB_blend_func_extended GL_ARB_buffer_storage GL_ARB_clear_buffer_object GL_ARB_clear_texture GL_ARB_clip_control GL_ARB_color_buffer_float GL_ARB_compressed_texture_pixel_storage GL_ARB_conservative_depth GL_ARB_compute_shader GL_ARB_compute_variable_group_size GL_ARB_conditional_render_inverted GL_ARB_copy_buffer GL_ARB_copy_image GL_ARB_cull_distance GL_ARB_debug_output GL_ARB_depth_buffer_float GL_ARB_depth_clamp GL_ARB_depth_texture GL_ARB_derivative_control GL_ARB_direct_state_access GL_ARB_draw_buffers GL_ARB_draw_buffers_blend GL_ARB_draw_indirect GL_ARB_draw_elements_base_vertex GL_ARB_draw_instanced GL_ARB_enhanced_layouts GL_ARB_ES2_compatibility GL_ARB_ES3_compatibility GL_ARB_ES3_1_compatibility GL_ARB_ES3_2_compatibility GL_ARB_explicit_attrib_location GL_ARB_explicit_uniform_location GL_ARB_fragmen
+t_coord_conventions GL_ARB_fragment_layer_viewport GL_ARB_fragment_program GL_ARB_fragment_program_shadow GL_ARB_fragment_shader GL_ARB_fragment_shader_interlock GL_ARB_framebuffer_no_attachments GL_ARB_framebuffer_object GL_ARB_framebuffer_sRGB GL_ARB_geometry_shader4 GL_ARB_get_program_binary GL_ARB_get_texture_sub_image GL_ARB_gl_spirv GL_ARB_gpu_shader5 GL_ARB_gpu_shader_fp64 GL_ARB_gpu_shader_int64 GL_ARB_half_float_pixel GL_ARB_half_float_vertex GL_ARB_imaging GL_ARB_indirect_parameters GL_ARB_instanced_arrays GL_ARB_internalformat_query GL_ARB_internalformat_query2 GL_ARB_invalidate_subdata GL_ARB_map_buffer_alignment GL_ARB_map_buffer_range GL_ARB_multi_bind GL_ARB_multi_draw_indirect GL_ARB_multisample GL_ARB_multitexture GL_ARB_occlusion_query GL_ARB_occlusion_query2 GL_ARB_parallel_shader_compile GL_ARB_pipeline_statistics_query GL_ARB_pixel_buffer_object GL_ARB_point_parameters GL_ARB_point_sprite GL_ARB_polygon_offset_clamp GL_ARB_post_depth_coverage GL_ARB_program_interface_query GL_ARB_provoki
+ng_vertex GL_ARB_query_buffer_object GL_ARB_robust_buffer_access_behavior GL_ARB_robustness GL_ARB_sample_locations GL_ARB_sample_shading GL_ARB_sampler_objects GL_ARB_seamless_cube_map GL_ARB_seamless_cubemap_per_texture GL_ARB_separate_shader_objects GL_ARB_shader_atomic_counter_ops GL_ARB_shader_atomic_counters GL_ARB_shader_ballot GL_ARB_shader_bit_encoding GL_ARB_shader_clock GL_ARB_shader_draw_parameters GL_ARB_shader_group_vote GL_ARB_shader_image_load_store GL_ARB_shader_image_size GL_ARB_shader_objects GL_ARB_shader_precision GL_ARB_shader_storage_buffer_object GL_ARB_shader_subroutine GL_ARB_shader_texture_image_samples GL_ARB_shader_texture_lod GL_ARB_shading_language_100 GL_ARB_shader_viewport_layer_array GL_ARB_shading_language_420pack GL_ARB_shading_language_include GL_ARB_shading_language_packing GL_ARB_shadow GL_ARB_sparse_buffer GL_ARB_sparse_texture GL_ARB_sparse_texture2 GL_ARB_sparse_texture_clamp GL_ARB_spirv_extensions GL_ARB_stencil_texturing GL_ARB_sync GL_ARB_tessellation_shader GL_A
+RB_texture_barrier GL_ARB_texture_border_clamp GL_ARB_texture_buffer_object GL_ARB_texture_buffer_object_rgb32 GL_ARB_texture_buffer_range GL_ARB_texture_compression GL_ARB_texture_compression_bptc GL_ARB_texture_compression_rgtc GL_ARB_texture_cube_map GL_ARB_texture_cube_map_array GL_ARB_texture_env_add GL_ARB_texture_env_combine GL_ARB_texture_env_crossbar GL_ARB_texture_env_dot3 GL_ARB_texture_filter_anisotropic GL_ARB_texture_filter_minmax GL_ARB_texture_float GL_ARB_texture_gather GL_ARB_texture_mirror_clamp_to_edge GL_ARB_texture_mirrored_repeat GL_ARB_texture_multisample GL_ARB_texture_non_power_of_two GL_ARB_texture_query_levels GL_ARB_texture_query_lod GL_ARB_texture_rectangle GL_ARB_texture_rg GL_ARB_texture_rgb10_a2ui GL_ARB_texture_stencil8 GL_ARB_texture_storage GL_ARB_texture_storage_multisample GL_ARB_texture_swizzle GL_ARB_texture_view GL_ARB_timer_query GL_ARB_transform_feedback2 GL_ARB_transform_feedback3 GL_ARB_transform_feedback_instanced GL_ARB_transform_feedback_overflow_query GL_ARB_t
+ranspose_matrix GL_ARB_uniform_buffer_object GL_ARB_vertex_array_bgra GL_ARB_vertex_array_object GL_ARB_vertex_attrib_64bit GL_ARB_vertex_attrib_binding GL_ARB_vertex_buffer_object GL_ARB_vertex_program GL_ARB_vertex_shader GL_ARB_vertex_type_10f_11f_11f_rev GL_ARB_vertex_type_2_10_10_10_rev GL_ARB_viewport_array GL_ARB_window_pos GL_ATI_draw_buffers GL_ATI_texture_float GL_ATI_texture_mirror_once GL_S3_s3tc GL_EXT_texture_env_add GL_EXT_abgr GL_EXT_bgra GL_EXT_bindable_uniform GL_EXT_blend_color GL_EXT_blend_equation_separate GL_EXT_blend_func_separate GL_EXT_blend_minmax GL_EXT_blend_subtract GL_EXT_compiled_vertex_array GL_EXT_Cg_shader GL_EXT_depth_bounds_test GL_EXT_direct_state_access GL_EXT_draw_buffers2 GL_EXT_draw_instanced GL_EXT_draw_range_elements GL_EXT_fog_coord GL_EXT_framebuffer_blit GL_EXT_framebuffer_multisample GL_EXTX_framebuffer_mixed_formats GL_EXT_framebuffer_multisample_blit_scaled GL_EXT_framebuffer_object GL_EXT_framebuffer_sRGB GL_EXT_geometry_shader4 GL_EXT_gpu_program_parameters 
+GL_EXT_gpu_shader4 GL_EXT_multi_draw_arrays GL_EXT_multiview_texture_multisample GL_EXT_multiview_timer_query GL_EXT_packed_depth_stencil GL_EXT_packed_float GL_EXT_packed_pixels GL_EXT_pixel_buffer_object GL_EXT_point_parameters GL_EXT_polygon_offset_clamp GL_EXT_post_depth_coverage GL_EXT_provoking_vertex GL_EXT_raster_multisample GL_EXT_rescale_normal GL_EXT_secondary_color GL_EXT_separate_shader_objects GL_EXT_separate_specular_color GL_EXT_shader_image_load_formatted GL_EXT_shader_image_load_store GL_EXT_shader_integer_mix GL_EXT_shadow_funcs GL_EXT_sparse_texture2 GL_EXT_stencil_two_side GL_EXT_stencil_wrap GL_EXT_texture3D GL_EXT_texture_array GL_EXT_texture_buffer_object GL_EXT_texture_compression_dxt1 GL_EXT_texture_compression_latc GL_EXT_texture_compression_rgtc GL_EXT_texture_compression_s3tc GL_EXT_texture_cube_map GL_EXT_texture_edge_clamp GL_EXT_texture_env_combine GL_EXT_texture_env_dot3 GL_EXT_texture_filter_anisotropic GL_EXT_texture_filter_minmax GL_EXT_texture_integer GL_EXT_texture_lod G
+L_EXT_texture_lod_bias GL_EXT_texture_mirror_clamp GL_EXT_texture_object GL_EXT_texture_shadow_lod GL_EXT_texture_shared_exponent GL_EXT_texture_sRGB GL_EXT_texture_sRGB_R8 GL_EXT_texture_sRGB_decode GL_EXT_texture_storage GL_EXT_texture_swizzle GL_EXT_timer_query GL_EXT_transform_feedback2 GL_EXT_vertex_array GL_EXT_vertex_array_bgra GL_EXT_vertex_attrib_64bit GL_EXT_window_rectangles GL_EXT_import_sync_object GL_NV_robustness_video_memory_purge GL_IBM_rasterpos_clip GL_IBM_texture_mirrored_repeat GL_KHR_context_flush_control GL_KHR_debug GL_EXT_memory_object GL_EXT_memory_object_fd GL_NV_memory_object_sparse GL_KHR_parallel_shader_compile GL_KHR_no_error GL_KHR_robust_buffer_access_behavior GL_KHR_robustness GL_EXT_semaphore GL_EXT_semaphore_fd GL_NV_timeline_semaphore GL_KHR_shader_subgroup GL_KTX_buffer_region GL_NV_alpha_to_coverage_dither_control GL_NV_bindless_multi_draw_indirect GL_NV_bindless_multi_draw_indirect_count GL_NV_bindless_texture GL_NV_blend_equation_advanced GL_NV_blend_equation_advanced
+_coherent GL_NVX_blend_equation_advanced_multi_draw_buffers GL_NV_blend_minmax_factor GL_NV_blend_square GL_NV_clip_space_w_scaling GL_NV_command_list GL_NV_compute_program5 GL_NV_compute_shader_derivatives GL_NV_conditional_render GL_NV_conservative_raster GL_NV_conservative_raster_dilate GL_NV_conservative_raster_pre_snap GL_NV_conservative_raster_pre_snap_triangles GL_NV_conservative_raster_underestimation GL_NV_copy_depth_to_color GL_NV_copy_image GL_NV_depth_buffer_float GL_NV_depth_clamp GL_NV_draw_texture GL_NV_draw_vulkan_image GL_NV_ES1_1_compatibility GL_NV_ES3_1_compatibility GL_NV_explicit_multisample GL_NV_feature_query GL_NV_fence GL_NV_fill_rectangle GL_NV_float_buffer GL_NV_fog_distance GL_NV_fragment_coverage_to_color GL_NV_fragment_program GL_NV_fragment_program_option GL_NV_fragment_program2 GL_NV_fragment_shader_barycentric GL_NV_fragment_shader_interlock GL_NV_framebuffer_mixed_samples GL_NV_framebuffer_multisample_coverage GL_NV_geometry_shader4 GL_NV_geometry_shader_passthrough GL_NV_g
+pu_program4 GL_NV_internalformat_sample_query GL_NV_gpu_program4_1 GL_NV_gpu_program5 GL_NV_gpu_program5_mem_extended GL_NV_gpu_program_fp64 GL_NV_gpu_shader5 GL_NV_half_float GL_NV_light_max_exponent GL_NV_memory_attachment GL_NV_mesh_shader GL_NV_multisample_coverage GL_NV_multisample_filter_hint GL_NV_occlusion_query GL_NV_packed_depth_stencil GL_NV_parameter_buffer_object GL_NV_parameter_buffer_object2 GL_NV_path_rendering GL_NV_path_rendering_shared_edge GL_NV_pixel_data_range GL_NV_point_sprite GL_NV_primitive_restart GL_NV_query_resource GL_NV_query_resource_tag GL_NV_register_combiners GL_NV_register_combiners2 GL_NV_representative_fragment_test GL_NV_sample_locations GL_NV_sample_mask_override_coverage GL_NV_scissor_exclusive GL_NV_shader_atomic_counters GL_NV_shader_atomic_float GL_NV_shader_atomic_float64 GL_NV_shader_atomic_fp16_vector GL_NV_shader_atomic_int64 GL_NV_shader_buffer_load GL_NV_shader_storage_buffer_object GL_NV_shader_subgroup_partitioned GL_NV_shader_texture_footprint GL_NV_shadin
+g_rate_image GL_NV_stereo_view_rendering GL_NV_texgen_reflection GL_NV_texture_barrier GL_NV_texture_compression_vtc GL_NV_texture_env_combine4 GL_NV_texture_multisample GL_NV_texture_rectangle GL_NV_texture_rectangle_compressed GL_NV_texture_shader GL_NV_texture_shader2 GL_NV_texture_shader3 GL_NV_transform_feedback GL_NV_transform_feedback2 GL_NV_uniform_buffer_unified_memory GL_NV_uniform_buffer_std430_layout GL_NV_vdpau_interop GL_NV_vdpau_interop2 GL_NV_vertex_array_range GL_NV_vertex_array_range2 GL_NV_vertex_attrib_integer_64bit GL_NV_vertex_buffer_unified_memory GL_NV_vertex_program GL_NV_vertex_program1_1 GL_NV_vertex_program2 GL_NV_vertex_program2_option GL_NV_vertex_program3 GL_NV_viewport_array2 GL_NV_viewport_swizzle GL_NVX_conditional_render GL_NV_gpu_multicast GL_NVX_progress_fence GL_NVX_gpu_memory_info GL_NVX_nvenc_interop GL_NV_shader_thread_group GL_NV_shader_thread_shuffle GL_KHR_blend_equation_advanced GL_KHR_blend_equation_advanced_coherent GL_OVR_multiview GL_OVR_multiview2 GL_SGIS_gen
+erate_mipmap GL_SGIS_texture_lod GL_SGIX_depth_texture GL_SGIX_shadow GL_SUN_slice_accum
+OPENGL LOG: Creating OpenGL 4.5 graphics device ; Context level  <OpenGL 4.5> ; Context handle 9772872
+Begin MonoManager ReloadAssembly
+- Completed reload, in  0.073 seconds
+Default vsync count 1
+requesting resize 1920 x 1080
+Using native desktop resolution 1920 x 1080
+requesting fullscreen 1920 x 1080 at 0 Hz
+Desktop is 1920 x 1080 @ 60 Hz
+UnloadTime: 0.794061 ms
+[11:43:03.950] [1] [INFO] KProfiler: Start
+[11:43:04.077] [1] [INFO] Applying resolution 1920x1080 @60hz (fullscreen: True)
+[11:43:04.078] [1] [INFO] Low Res Textures? No
+[11:43:04.160] [1] [INFO] Current date: 11/19/2023 12:43:04
+[11:43:04.160] [1] [INFO] release Build: ??-581979-?
+[11:43:04.162] [1] [INFO] Creating SteamManager.
+[S_API] SteamAPI_Init(): Loaded '/home/min/.local/share/Steam/linux64/steamclient.so' OK.
+Setting breakpad minidump AppID = 457140
+SteamInternal_SetMinidumpSteamID:  Caching Steam ID:  76561198103452897 [API loaded no]
+[11:43:04.198] [1] [INFO] DistributionPlatform initialized.
+[11:43:04.200] [1] [INFO] release Build: U50-581979-V
+[11:43:04.200] [1] [INFO] EXPANSION1 installed: False  active: False
+[11:43:06.011] [1] [INFO] Expansion1: False
+SYSTEM INFO:
+    Platform=LinuxPlayer
+    OSname=Linux 6.6 EndeavourOS  64bit
+    OSversion=6.6.1.1
+    CPUmodel=PC
+    CPUdeviceType=Desktop
+    ProcBits=64
+    CPUcount=12
+    CPUtype=AMD Ryzen 5 2600 Six-Core Processor
+    SystemMemoryMegs=15936
+    GPUgraphicsDeviceID=0
+    GPUname=NVIDIA GeForce RTX 2060/PCIe/SSE2
+    GPUgraphicsDeviceType=OpenGLCore
+    GPUgraphicsDeviceVendor=NVIDIA Corporation
+    GPUgraphicsDeviceVendorID=0
+    GPUgraphicsDeviceVersion=OpenGL 4.5.0 NVIDIA 545.29.02
+    GPUmemoryMegs=6144
+    GPUgraphicsMultiThreaded=False
+    GPUgraphicsShaderLevel=50
+    GPUmaxTextureSize=32768
+    GPUnpotSupport=Full
+    GPUsupportedRenderTargetCount=8
+    GPUsupports2DArrayTextures=True
+    GPUsupports3DTextures=True
+    GPUsupportsComputeShaders=True
+    GPUsupportsImageEffects=True
+    GPUsupportsInstancing=True
+    GPUsupportsRenderToCubemap=True
+    GPUsupportsShadows=True
+    GPUsupportsSparseTextures=True
+    GPUcopyTextureSupport=Basic, Copy3D, DifferentTypes, TextureToRT, RTToTexture
+    System Language=English
+[11:43:06.219] [1] [INFO] Initializing at 2023-11-19 11:43:06.219
+[11:43:06.219] [1] [INFO] Save path: /home/min/.config/unity3d/Klei/Oxygen Not Included
+[11:43:07.178] [1] [INFO] [Dừng cập nhật] Vietnamese Language Pack By ChuotChanel: Successfully loaded from path 'root' with content 'Translation'.
+[11:43:07.178] [1] [INFO] Using builtin mod system.
+[11:43:07.216] [1] [INFO] Localization.Initialize!
+[11:43:07.217] [1] [INFO] Localization Initialize... Mod-based localization
+[11:43:07.283] [1] [INFO]  -> Locale is now  vi:Unspecified:LeftToRight:RobotoCondensed-Regular
+[11:43:07.793] [1] [INFO] TRANSLATION ERROR! The following have missing or mismatched parameters:
+	STRINGS.CODEX.POWER.TITLE
+	STRINGS.CODEX.PRIORITY.PARAGRAPH_1
+	STRINGS.CODEX.PRIORITY.PARAGRAPH_3
+	STRINGS.UI.FRONTEND.PAUSE_SCREEN.WORLD_SEED_TOOLTIP
+	STRINGS.UI.ROLES_SCREEN.NO_JOB_STATION_WARNING
+	STRINGS.UI.TOOLTIPS.MANAGEMENTMENU_JOBS
+	STRINGS.UI.TOOLTIPS.MANAGEMENTMENU_REQUIRES_RESEARCH
+	STRINGS.UI.TOOLTIPS.MANAGEMENTMENU_REQUIRES_TELESCOPE
+	STRINGS.UI.TOOLTIPS.MANAGEMENTMENU_REQUIRES_SKILL_STATION
+	STRINGS.UI.TOOLTIPS.PRIORITIZEBUTTON
+	STRINGS.UI.TOOLTIPS.HELP_ROTATE_KEY
+	STRINGS.UI.TOOLTIPS.HELP_BUILDLOCATION_WALL
+	STRINGS.UI.STARMAP.LAUNCHCHECKLIST.PROPERLY_FUELED.TOOLTIP.READY
+	STRINGS.UI.STARMAP.LAUNCHCHECKLIST.PROPERLY_FUELED.TOOLTIP.FAILURE
+	STRINGS.UI.OVERLAYS.CROP.TOOLTIPS.FULLY_GROWN
+	STRINGS.UI.JOBSSCREEN.HEADER_TOOLTIP
+	STRINGS.UI.PRIORITYSCREEN.DIAGRAM
+	STRINGS.UI.UISIDESCREENS.TELESCOPESIDESCREEN.NO_SELECTED_ANALYSIS_TARGET
+	STRINGS.UI.UISIDESCREENS.RAILGUNSIDESCREEN.NO_SELECTED_LAUNCH_TARGET
+	STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.TITLE
+	STRINGS.UI.UISIDESCREENS.MINIONTODOSIDESCREEN.TOOLTIP_IDLE
+	STRINGS.UI.UISIDESCREENS.MINIONTODOSIDESCREEN.TOOLTIP_COMPULSORY
+	STRINGS.UI.USERMENUACTIONS.SELECTRESEARCH.TOOLTIP
+	STRINGS.UI.DETAILTABS.PERSONALITY.RESUME.MASTERED_SKILLS_TOOLTIP
+	STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.CAPTURE_METHOD_WRANGLE
+	STRINGS.ROOMS.CRITERIA.DECORATIVE_ITEM.NAME
+	STRINGS.ROOMS.CRITERIA.DECORATIVE_ITEM.DESCRIPTION
+	STRINGS.BUILDING.STATUSITEMS.MISSINGFOUNDATION.TOOLTIP
+	STRINGS.BUILDING.STATUSITEMS.NEEDSOLIDIN.TOOLTIP
+	STRINGS.BUILDING.STATUSITEMS.NEEDSOLIDOUT.TOOLTIP
+	STRINGS.BUILDING.STATUSITEMS.NEWDUPLICANTSAVAILABLE.NOTIFICATION_TOOLTIP
+	STRINGS.BUILDING.STATUSITEMS.NOAPPLICABLEANALYSISSELECTED.TOOLTIP
+	STRINGS.BUILDING.STATUSITEMS.POWERBUTTONOFF.TOOLTIP
+	STRINGS.BUILDING.STATUSITEMS.WAITINGFORRADIATION.TOOLTIP
+	STRINGS.BUILDING.STATUSITEMS.NORESEARCHSELECTED.TOOLTIP
+	STRINGS.BUILDING.STATUSITEMS.NORESEARCHSELECTED.NOTIFICATION_TOOLTIP
+	STRINGS.BUILDING.STATUSITEMS.NORESEARCHORDESTINATIONSELECTED.TOOLTIP
+	STRINGS.BUILDING.STATUSITEMS.NORESEARCHORDESTINATIONSELECTED.NOTIFICATION_TOOLTIP
+	STRINGS.BUILDING.STATUSITEMS.EMITTINGLIGHT.TOOLTIP
+	STRINGS.BUILDING.STATUSITEMS.FLUSHTOILET.NAME
+	STRINGS.BUILDING.STATUSITEMS.FLUSHTOILETINUSE.NAME
+	STRINGS.BUILDING.STATUSITEMS.HEATINGSTALLEDLOWMASS_GAS.TOOLTIP
+	STRINGS.BUILDING.STATUSITEMS.BUILDINGDISABLED.TOOLTIP
+	STRINGS.BUILDING.STATUSITEMS.COLONYLACKSREQUIREDSKILLPERK.TOOLTIP
+	STRINGS.BUILDING.STATUSITEMS.CLUSTERCOLONYLACKSREQUIREDSKILLPERK.NAME
+	STRINGS.BUILDING.STATUSITEMS.CLUSTERCOLONYLACKSREQUIREDSKILLPERK.TOOLTIP
+	STRINGS.BUILDING.STATUSITEMS.TURBINE_TOO_HOT.TOOLTIP
+	STRINGS.BUILDING.STATUSITEMS.TURBINE_INSUFFICIENT_TEMPERATURE.NAME
+	STRINGS.BUILDING.STATUSITEMS.TURBINE_INSUFFICIENT_TEMPERATURE.TOOLTIP
+	STRINGS.BUILDING.STATUSITEMS.NOTINANYROOM.TOOLTIP
+	STRINGS.BUILDING.STATUSITEMS.NOTINREQUIREDROOM.TOOLTIP
+	STRINGS.BUILDING.STATUSITEMS.NOTINRECOMMENDEDROOM.TOOLTIP
+	STRINGS.BUILDING.STATUSITEMS.NETWORKQUALITY.TOOLTIP
+	STRINGS.BUILDING.STATUSITEMS.SPACE_VISIBILITY_NONE.TOOLTIP
+	STRINGS.BUILDING.STATUSITEMS.SPACE_VISIBILITY_REDUCED.TOOLTIP
+	STRINGS.BUILDING.STATUSITEMS.RAILGUN_PATH_NOT_CLEAR.TOOLTIP
+	STRINGS.BUILDING.STATUSITEMS.RAILGUN_NO_DESTINATION.TOOLTIP
+	STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.CALORIE_SURPLUS
+	STRINGS.CREATURES.STATUSITEMS.SCALDING.TOOLTIP
+	STRINGS.CREATURES.STATUSITEMS.HYPERTHERMIA.TOOLTIP
+	STRINGS.RESEARCH.MESSAGING.NO_RESEARCHER_SKILL_TOOLTIP
+	STRINGS.RESEARCH.MESSAGING.MISSING_RESEARCH_STATION_TOOLTIP
+	STRINGS.DUPLICANTS.STATS.DECOR.TOOLTIP
+	STRINGS.DUPLICANTS.STATS.RADIATIONBALANCE.TOOLTIP
+	STRINGS.DUPLICANTS.STATS.RADIATIONBALANCE.TOOLTIP_CURRENT_BALANCE
+	STRINGS.DUPLICANTS.CHORES.DIG.TOOLTIP
+	STRINGS.DUPLICANTS.STATUSITEMS.NOTOILETS.TOOLTIP
+	STRINGS.DUPLICANTS.STATUSITEMS.NOTOILETS.NOTIFICATION_TOOLTIP
+	STRINGS.DUPLICANTS.STATUSITEMS.STRESSFULLYEMPTYINGBLADDER.TOOLTIP
+	STRINGS.DUPLICANTS.STATUSITEMS.STRESSFULLYEMPTYINGBLADDER.NOTIFICATION_TOOLTIP
+	STRINGS.DUPLICANTS.STATUSITEMS.VOMITING.TOOLTIP
+	STRINGS.DUPLICANTS.STATUSITEMS.VOMITING.NOTIFICATION_TOOLTIP
+	STRINGS.DUPLICANTS.STATUSITEMS.STRESSVOMITING.TOOLTIP
+	STRINGS.DUPLICANTS.STATUSITEMS.STRESSVOMITING.NOTIFICATION_TOOLTIP
+	STRINGS.DUPLICANTS.STATUSITEMS.RADIATIONVOMITING.TOOLTIP
+	STRINGS.DUPLICANTS.STATUSITEMS.RADIATIONVOMITING.NOTIFICATION_TOOLTIP
+	STRINGS.DUPLICANTS.STATUSITEMS.EXPOSEDTOGERMS.TOOLTIP
+	STRINGS.DUPLICANTS.STATUSITEMS.GASLIQUIDEXPOSURE.TOOLTIP_EXPOSURE_LEVEL
+	STRINGS.DUPLICANTS.DISEASES.STATUS_ITEM_TOOLTIP.TEMPLATE
+	STRINGS.DUPLICANTS.ATTRIBUTES.RADIATIONBALANCEDELTA.TOOLTIP
+	STRINGS.MISC.STATUSITEMS.NOTMARKEDFORHARVEST.TOOLTIP
+	STRINGS.MISC.STATUSITEMS.MARKEDFORCOMPOSTINSTORAGE.TOOLTIP
+	STRINGS.MISC.NOTIFICATIONS.BASICCONTROLS.MESSAGEBODY
+	STRINGS.MISC.NOTIFICATIONS.WELCOMEMESSAGE.MESSAGEBODY
+	STRINGS.MISC.NOTIFICATIONS.TASKPRIORITIESMESSAGE.MESSAGEBODY
+	STRINGS.MISC.NOTIFICATIONS.MOPPINGMESSAGE.MESSAGEBODY
+	STRINGS.MISC.NOTIFICATIONS.PRIORITIESMESSAGE.MESSAGEBODY
+	STRINGS.MISC.NOTIFICATIONS.FETCHINGWATERMESSAGE.MESSAGEBODY
+	STRINGS.MISC.NOTIFICATIONS.SCHEDULEMESSAGE.MESSAGEBODY
+	STRINGS.MISC.NOTIFICATIONS.THERMALCOMFORT.MESSAGEBODY
+	STRINGS.MISC.NOTIFICATIONS.LOTS_OF_GERMS.MESSAGEBODY
+	STRINGS.MISC.NOTIFICATIONS.RADIATION.MESSAGEBODY
+	STRINGS.MISC.NOTIFICATIONS.SPACETRAVEL.MESSAGEBODY
+	STRINGS.MISC.NOTIFICATIONS.POWER.MESSAGEBODY
+	STRINGS.MISC.NOTIFICATIONS.DIGGING.MESSAGEBODY
+	STRINGS.MISC.NOTIFICATIONS.INSULATION.MESSAGEBODY
+	STRINGS.MISC.NOTIFICATIONS.PLUMBING.MESSAGEBODY
+	STRINGS.MISC.NOTIFICATIONS.NO_OXYGEN_GENERATOR.TOOLTIP
+	STRINGS.MISC.NOTIFICATIONS.FOODLOW.TOOLTIP
+	STRINGS.MISC.NOTIFICATIONS.NO_MEDICAL_COTS.TOOLTIP
+	STRINGS.MISC.NOTIFICATIONS.NEEDTOILET.TOOLTIP
+	STRINGS.MISC.NOTIFICATIONS.NEEDFOOD.TOOLTIP
+	STRINGS.MISC.NOTIFICATIONS.HYGENE_NEEDED.TOOLTIP
+	STRINGS.MISC.NOTIFICATIONS.NEEDSLEEP.TOOLTIP
+	STRINGS.MISC.NOTIFICATIONS.BADROCKETPATH.TOOLTIP
+	STRINGS.MISC.NOTIFICATIONS.SCHEDULE_CHANGED.TOOLTIP
+
+[11:43:07.793] [1] [INFO] TRANSLATION ERROR! The following have mismatched <link> tags:
+	STRINGS.CODEX.LIGHT.PARAGRAPH_2
+	STRINGS.CREATURES.SPECIES.DRECKO.VARIANT_PLASTIC.DESC
+	STRINGS.CREATURES.SPECIES.COLDBREATHER.DESC
+	STRINGS.CREATURES.SPECIES.COLDBREATHERCLUSTER.DESC
+	STRINGS.DUPLICANTS.ATTRIBUTES.DOCTOREDLEVEL.NAME
+	STRINGS.ITEMS.FOOD.LETTUCE.RECIPEDESC
+	STRINGS.SUBWORLDS.OCEAN.UTILITY
+	STRINGS.SUBWORLDS.OIL.DESC
+	STRINGS.SUBWORLDS.SANDSTONE.UTILITY
+
+[11:43:07.793] [1] [INFO] TRANSLATION ERROR! The following do not have the same amount of <link> tags as the english string which can cause nested link errors:
+	STRINGS.BUILDINGS.PREFABS.BATTERY.EFFECT
+	STRINGS.BUILDINGS.PREFABS.BATTERYMEDIUM.EFFECT
+	STRINGS.BUILDINGS.PREFABS.BATTERYSMART.EFFECT
+	STRINGS.BUILDINGS.PREFABS.LUXURYBED.EFFECT
+	STRINGS.BUILDINGS.PREFABS.MINERALDEOXIDIZER.DESC
+	STRINGS.BUILDINGS.PREFABS.COSMICRESEARCHCENTER.EFFECT
+	STRINGS.BUILDINGS.PREFABS.CRAFTINGTABLE.EFFECT
+	STRINGS.BUILDINGS.PREFABS.ROCKCRUSHER.EFFECT
+	STRINGS.CREATURES.SPECIES.PACU.BABY.DESC
+	STRINGS.CREATURES.SPECIES.PACU.VARIANT_TROPICAL.BABY.DESC
+	STRINGS.CREATURES.SPECIES.PACU.VARIANT_CLEANER.BABY.DESC
+	STRINGS.CREATURES.SPECIES.HATCH.BABY.DESC
+	STRINGS.CREATURES.SPECIES.DRECKO.BABY.DESC
+	STRINGS.CREATURES.SPECIES.DRECKO.VARIANT_PLASTIC.BABY.DESC
+	STRINGS.CREATURES.SPECIES.OILFLOATER.VARIANT_HIGHTEMP.BABY.DESC
+	STRINGS.CREATURES.SPECIES.OILFLOATER.VARIANT_DECOR.BABY.DESC
+	STRINGS.CREATURES.SPECIES.PUFT.BABY.DESC
+	STRINGS.CREATURES.SPECIES.PUFT.VARIANT_ALPHA.BABY.DESC
+	STRINGS.CREATURES.SPECIES.PUFT.VARIANT_OXYLITE.BABY.DESC
+	STRINGS.CREATURES.SPECIES.PUFT.VARIANT_BLEACHSTONE.BABY.DESC
+	STRINGS.CREATURES.SPECIES.FILTERPLANT.DESC
+	STRINGS.CREATURES.SPECIES.WOOD_TREE_BRANCH.DESC
+	STRINGS.CREATURES.SPECIES.SEEDS.MUSHROOMPLANT.DESC
+	STRINGS.CREATURES.SPECIES.SEEDS.GASGRASS.DESC
+	STRINGS.CREATURES.SPECIES.SEEDS.SEALETTUCE.DESC
+	STRINGS.RESEARCH.TECHS.LIQUIDFILTERING.DESC
+	STRINGS.DUPLICANTS.STATUSITEMS.RATIONSUNREACHABLE.NOTIFICATION_TOOLTIP
+	STRINGS.DUPLICANTS.NEEDS.DECOR.EXPECTATION_TOOLTIP
+	STRINGS.DUPLICANTS.NEEDS.FOOD_QUALITY.EXPECTATION_TOOLTIP
+	STRINGS.DUPLICANTS.ATTRIBUTES.LEARNING.DESC
+	STRINGS.DUPLICANTS.ATTRIBUTES.DECORRADIUS.DESC
+	STRINGS.ITEMS.FOOD.COOKEDFISH.DESC
+	STRINGS.ITEMS.FOOD.COOKEDFISH.RECIPEDESC
+	STRINGS.ITEMS.RADIATION.HIGHENERGYPARITCLE.DESC
+	STRINGS.ELEMENTS.CREATURE.DESC
+	STRINGS.ELEMENTS.SOLIDNUCLEARWASTE.DESC
+	STRINGS.MISC.STATUSITEMS.DURABILITY.TOOLTIP
+	STRINGS.MISC.STATUSITEMS.STOREDITEMDURABILITY.TOOLTIP
+	STRINGS.MISC.NOTIFICATIONS.DEATH_FROZENSOLID.TOOLTIP
+	STRINGS.MISC.NOTIFICATIONS.DEATH_OVERHEATING.TOOLTIP
+	STRINGS.MISC.NOTIFICATIONS.DEATH_STARVATION.TOOLTIP
+
+[11:43:07.837] [1] [INFO]  -> Loaded language from mod: 1714866600
+[11:43:07.840] [1] [INFO] Logged into Steam with ID:76561198103452897, NAME:[3ig[3ellY
+[11:43:07.841] [1] [INFO] [Account] Requesting auth ticket from Steam
+[11:43:08.934] [4] [INFO] [Account] Got login for user KU_OYtV7eop
+[11:43:09.445] [1] [WARNING] No lookup frames for  [0xEEAC6C95] build: [painting_art_o] idx: [5] id: [texture]
+[11:43:10.586] [6] [INFO] World settings reload complete!
+[11:43:14.448] [1] [WARNING] Tried loading prefab with duplicate tag, ignoring: DebugPlacer
+[11:43:14.448] [1] [WARNING] Tried loading prefab with duplicate tag, ignoring: DebugPlacer
+[11:43:14.448] [1] [WARNING] Tried loading prefab with duplicate tag, ignoring: WaterExplode
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+requesting resize 1920 x 1080
+Using native desktop resolution 1920 x 1080
+requesting fullscreen 1920 x 1080 at 60 Hz
+Desktop is 1920 x 1080 @ 60 Hz
+
+Unloading 4334 unused Assets to reduce memory usage. Loaded Objects now: 56750.
+Total: 184.194653 ms (FindLiveObjects: 2.885703 ms CreateObjectMapping: 1.873382 ms MarkObjects: 175.403333 ms  DeleteObjects: 4.031415 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.760353 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 60442.
+Total: 198.385980 ms (FindLiveObjects: 4.415526 ms CreateObjectMapping: 1.807592 ms MarkObjects: 192.009322 ms  DeleteObjects: 0.152940 ms)
+
+[11:43:18.358] [1] [INFO] -- MAIN MENU -- 
+[11:43:18.478] [1] [INFO] Checking which steam branch we're on. Got: []
+[11:43:18.596] [1] [INFO] Screen resolution updated, saving values to prefs: 1920x1080 @ 60, fullscreen: True
+[11:43:18.782] [1] [WARNING] MOTD Error: couldn't fetch all web motd images
+[11:43:18.783] [1] [WARNING] MOTD Error: failed to get valid motd data, hiding ui.
+[11:43:18.797] [1] [WARNING] MOTD Error: couldn't fetch all web motd images
+[11:43:18.797] [1] [WARNING] MOTD Error: failed to get valid motd data, hiding ui.
+[11:43:19.872] [1] [INFO] Steam: updating info for mod [Dừng cập nhật] Vietnamese Language Pack By ChuotChanel
+[11:43:19.873] [1] [INFO] Steam: Preview image load failed
+[11:43:19.928] [1] [INFO] [Dừng cập nhật] Vietnamese Language Pack By ChuotChanel: Successfully loaded from path 'root' with content 'Translation'.
+[11:43:19.928] [1] [INFO] Subscribe to mod [Dừng cập nhật] Vietnamese Language Pack By ChuotChanel
+[11:43:20.099] [1] [INFO] Steam: updating info for mod 
+[11:43:59.419] [1] [INFO]  -> Clearing selected language! Either it didn't load correct or returning to english by menu.
+[11:44:00.017] [1] [INFO] TRANSLATION ERROR! The following do not have the same amount of <link> tags as the english string which can cause nested link errors:
+	STRINGS.BUILDINGS.PREFABS.ETHANOLDISTILLERY.EFFECT
+	STRINGS.BUILDINGS.PREFABS.ARTIFACTCARGOBAY.EFFECT
+	STRINGS.BUILDINGS.PREFABS.CARGOBAYCLUSTER.EFFECT
+	STRINGS.BUILDINGS.PREFABS.SOLIDCARGOBAYSMALL.EFFECT
+	STRINGS.BUILDINGS.PREFABS.SCANNERMODULE.EFFECT
+	STRINGS.BUILDINGS.PREFABS.HABITATMODULESMALL.EFFECT
+	STRINGS.BUILDINGS.PREFABS.HABITATMODULEMEDIUM.EFFECT
+	STRINGS.BUILDINGS.PREFABS.NOSECONEBASIC.EFFECT
+	STRINGS.BUILDINGS.PREFABS.NOSECONEHARVEST.EFFECT
+	STRINGS.BUILDINGS.PREFABS.CO2ENGINE.EFFECT
+	STRINGS.BUILDINGS.PREFABS.KEROSENEENGINECLUSTER.EFFECT
+	STRINGS.BUILDINGS.PREFABS.KEROSENEENGINECLUSTERSMALL.EFFECT
+	STRINGS.BUILDINGS.PREFABS.HYDROGENENGINECLUSTER.EFFECT
+	STRINGS.BUILDINGS.PREFABS.SUGARENGINE.EFFECT
+	STRINGS.BUILDINGS.PREFABS.HEPENGINE.EFFECT
+	STRINGS.BUILDINGS.PREFABS.SOLARPANELMODULE.EFFECT
+	STRINGS.BUILDINGS.PREFABS.SCOUTMODULE.EFFECT
+	STRINGS.BUILDINGS.PREFABS.WATERCOOLER.EFFECT
+	STRINGS.BUILDINGS.PREFABS.PHONOBOX.EFFECT
+	STRINGS.BUILDINGS.PREFABS.JUICER.EFFECT
+	STRINGS.BUILDINGS.PREFABS.ESPRESSOMACHINE.EFFECT
+	STRINGS.BUILDINGS.PREFABS.LIQUIDFUELTANKCLUSTER.EFFECT
+	STRINGS.BUILDINGS.PREFABS.SMALLOXIDIZERTANK.EFFECT
+	STRINGS.BUILDINGS.PREFABS.OXIDIZERTANKCLUSTER.EFFECT
+	STRINGS.BUILDINGS.PREFABS.OXIDIZERTANKLIQUIDCLUSTER.EFFECT
+	STRINGS.BUILDINGS.PREFABS.LIQUIDCARGOBAYCLUSTER.EFFECT
+	STRINGS.BUILDINGS.PREFABS.LIQUIDCARGOBAYSMALL.EFFECT
+	STRINGS.BUILDINGS.PREFABS.GASCARGOBAYCLUSTER.EFFECT
+	STRINGS.BUILDINGS.PREFABS.GASCARGOBAYSMALL.EFFECT
+	STRINGS.BUILDINGS.PREFABS.GASLOGICVALVE.EFFECT
+	STRINGS.BUILDINGS.PREFABS.HYDROPONICFARM.EFFECT
+	STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.EFFECT
+	STRINGS.BUILDINGS.PREFABS.CREATURETRAP.EFFECT
+	STRINGS.BUILDINGS.PREFABS.CREATUREDELIVERYPOINT.EFFECT
+	STRINGS.BUILDINGS.PREFABS.LIQUIDPUMP.EFFECT
+	STRINGS.BUILDINGS.PREFABS.LIQUIDMINIPUMP.EFFECT
+	STRINGS.BUILDINGS.PREFABS.APOTHECARY.EFFECT
+	STRINGS.BUILDINGS.PREFABS.ADVANCEDRESEARCHCENTER.EFFECT
+	STRINGS.BUILDINGS.PREFABS.ORBITALRESEARCHCENTER.DESC
+	STRINGS.BUILDINGS.PREFABS.SHEARINGSTATION.EFFECT
+	STRINGS.BUILDINGS.PREFABS.SUITMARKER.EFFECT
+	STRINGS.BUILDINGS.PREFABS.HIGHWATTAGEWIRE.EFFECT
+	STRINGS.BUILDINGS.PREFABS.WIREBRIDGEHIGHWATTAGE.EFFECT
+	STRINGS.BUILDINGS.PREFABS.WIREREFINEDBRIDGE.EFFECT
+	STRINGS.BUILDINGS.PREFABS.DIRECTIONALWORLDPUMPLIQUID.EFFECT
+	STRINGS.BUILDINGS.PREFABS.STEAMENGINECLUSTER.EFFECT
+	STRINGS.BUILDINGS.PREFABS.SOLARPANEL.EFFECT
+	STRINGS.BUILDINGS.PREFABS.OILWELLCAP.EFFECT
+	STRINGS.BUILDINGS.PREFABS.POWERCONTROLSTATION.EFFECT
+	STRINGS.BUILDINGS.PREFABS.FARMSTATION.EFFECT
+	STRINGS.BUILDINGS.PREFABS.FISHDELIVERYPOINT.EFFECT
+	STRINGS.BUILDINGS.PREFABS.FISHFEEDER.EFFECT
+	STRINGS.BUILDINGS.PREFABS.FISHTRAP.EFFECT
+	STRINGS.BUILDINGS.PREFABS.RANCHSTATION.EFFECT
+	STRINGS.BUILDINGS.PREFABS.MACHINESHOP.EFFECT
+	STRINGS.BUILDINGS.PREFABS.CREATUREFEEDER.EFFECT
+	STRINGS.BUILDINGS.PREFABS.EGGINCUBATOR.EFFECT
+	STRINGS.BUILDINGS.PREFABS.EGGCRACKER.EFFECT
+	STRINGS.CODEX.BEETA.BODY.CONTAINER1
+	STRINGS.CODEX.BLUFFBRIAR.BODY.CONTAINER1
+	STRINGS.CODEX.GENETICS.PARAGRAPH_1
+	STRINGS.CODEX.GENETICS.PARAGRAPH_2
+	STRINGS.CODEX.MORALE.PARAGRAPH_3
+	STRINGS.CODEX.RADIATION.PARAGRAPH_1
+	STRINGS.CODEX.RADIATION.PARAGRAPH_2
+	STRINGS.CODEX.RADIATION.PARAGRAPH_3
+	STRINGS.EQUIPMENT.PREFABS.OXYGEN_MASK.EFFECT
+	STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT.EFFECT
+	STRINGS.EQUIPMENT.PREFABS.AQUA_SUIT.EFFECT
+	STRINGS.EQUIPMENT.PREFABS.JET_SUIT.EFFECT
+	STRINGS.EQUIPMENT.PREFABS.JET_SUIT.RECIPE_DESC
+	STRINGS.EQUIPMENT.PREFABS.FUNKY_VEST.EFFECT
+	STRINGS.EQUIPMENT.PREFABS.FUNKY_VEST.RECIPE_DESC
+	STRINGS.UI.ROLES_SCREEN.PERKS.CAN_USE_RANCH_STATION.DESCRIPTION
+	STRINGS.UI.STARMAP.NOSUIT.TOOLTIP
+	STRINGS.UI.VITALSSCREEN.QUALITYOFLIFE_EXPECTATIONS_TOOLTIP
+	STRINGS.UI.UISIDESCREENS.CLUSTERDESTINATIONSIDESCREEN.FIRSTAVAILABLE
+	STRINGS.UI.GAMEOBJECTEFFECTS.REQUIRES_SUBMERSION
+	STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.REQUIRES_RECEPTACLE
+	STRINGS.ROOMS.CRITERIA.BED_SINGLE.NAME
+	STRINGS.ROOMS.CRITERIA.NO_COTS.NAME
+	STRINGS.ROOMS.CRITERIA.BUILDING_DECOR_POSITIVE.NAME
+	STRINGS.ROOMS.CRITERIA.CLINIC.NAME
+	STRINGS.ROOMS.CRITERIA.CREATURE_FEEDER.NAME
+	STRINGS.ROOMS.CRITERIA.MASSAGE_TABLE.NAME
+	STRINGS.ROOMS.CRITERIA.MESS_STATION_MULTIPLE.NAME
+	STRINGS.ROOMS.CRITERIA.NO_OUTHOUSES.NAME
+	STRINGS.ROOMS.CRITERIA.NO_INDUSTRIAL_MACHINERY.NAME
+	STRINGS.BUILDING.STATUSITEMS.MISSINGGANTRY.TOOLTIP
+	STRINGS.CREATURES.SPECIES.DRECKO.DESC
+	STRINGS.CREATURES.SPECIES.SQUIRREL.DESC
+	STRINGS.CREATURES.SPECIES.MOO.DESC
+	STRINGS.CREATURES.SPECIES.SWAMPLILY.DESC
+	STRINGS.CREATURES.SPECIES.SWAMPLILY.DOMESTICATEDDESC
+	STRINGS.CREATURES.SPECIES.GASGRASS.DESC
+	STRINGS.RESEARCH.TECHS.ARTISTRY.NAME
+	STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_ARTING2.NAME
+	STRINGS.DUPLICANTS.ROLES.ARTIST.NAME
+	STRINGS.DUPLICANTS.ROLES.MEDIC.DESCRIPTION
+	STRINGS.DUPLICANTS.ROLES.MECHATRONIC_ENGINEER.DESCRIPTION
+	STRINGS.ITEMS.INGREDIENTS.SWAMPLILYFLOWER.NAME
+	STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.FARM_STATION_TOOLS.DESC
+	STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.RESEARCH_DATABANK.DESC
+	STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.WOOD.DESC
+	STRINGS.ELEMENTS.BRINEICE.DESC
+	STRINGS.ELEMENTS.ETHANOL.DESC
+	STRINGS.ELEMENTS.LIME.DESC
+	STRINGS.ELEMENTS.LIQUIDSULFUR.DESC
+	STRINGS.ELEMENTS.NUCLEARWASTE.DESC
+	STRINGS.ELEMENTS.OXYROCK.DESC
+	STRINGS.ELEMENTS.PHOSPHORUSGAS.DESC
+	STRINGS.ELEMENTS.REGOLITH.DESC
+	STRINGS.ELEMENTS.SAND.DESC
+	STRINGS.ELEMENTS.SULFUR.DESC
+	STRINGS.ELEMENTS.SULFURGAS.DESC
+	STRINGS.ELEMENTS.SUPERCOOLANT.DESC
+	STRINGS.MISC.TAGS.FILTER
+	STRINGS.MISC.TAGS.ICEORE
+	STRINGS.MISC.TAGS.REFINEDMETAL
+	STRINGS.MISC.TAGS.COMPOSTABLE
+	STRINGS.MISC.TAGS.COMBUSTIBLELIQUID
+	STRINGS.MISC.STATUSITEMS.MARKEDFORCOMPOST.TOOLTIP
+	STRINGS.MISC.NOTIFICATIONS.SUITS.MESSAGEBODY
+
+[11:44:00.023] [1] [INFO] Restarting
+	exe (/run/media/min/Secondary/SteamLibrary/steamapps/common/OxygenNotIncluded/OxygenNotIncluded)
+	full (/run/media/min/Secondary/SteamLibrary/steamapps/common/OxygenNotIncluded/OxygenNotIncluded)
+	dir (/run/media/min/Secondary/SteamLibrary/steamapps/common/OxygenNotIncluded)
+ERROR: ld.so: object '/home/min/.local/share/Steam/ubuntu12_32/gameoverlayrenderer.so' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+Setting up 3 worker threads for Enlighten.
+  Thread -> id: 7f1046efe6c0 -> priority: 1 
+  Thread -> id: 7f10466fd6c0 -> priority: 1 
+  Thread -> id: 7f1045efc6c0 -> priority: 1 

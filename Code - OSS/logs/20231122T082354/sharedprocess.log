@@ -1,0 +1,14 @@
+2023-11-22 08:48:42.071 [info] Getting Manifest... snickerdoodle.snickerdoodle-light
+2023-11-22 08:48:42.396 [info] Installing extension: snickerdoodle.snickerdoodle-light
+2023-11-22 08:48:43.075 [info] Extension signature verification is not done: snickerdoodle.snickerdoodle-light
+2023-11-22 08:48:43.146 [info] Extracted extension to file:///home/min/.vscode-oss/extensions/snickerdoodle.snickerdoodle-light-0.0.4-universal: snickerdoodle.snickerdoodle-light
+2023-11-22 08:48:43.151 [info] Renamed to /home/min/.vscode-oss/extensions/snickerdoodle.snickerdoodle-light-0.0.4-universal
+2023-11-22 08:48:43.154 [info] Extracting extension completed. snickerdoodle.snickerdoodle-light
+2023-11-22 08:48:43.170 [info] Extension installed successfully: snickerdoodle.snickerdoodle-light
+2023-11-22 08:48:43.246 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/min/.vscode-oss/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/min/.vscode-oss/extensions/extensions.json.vsctmp'
+    at r.create (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30053)
+    at a (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30167)
+    at s.fb (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36175)
+    at s.stat (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:28621)
+    at async E.stat (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:15732)
+    at async K.tb (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:9535)

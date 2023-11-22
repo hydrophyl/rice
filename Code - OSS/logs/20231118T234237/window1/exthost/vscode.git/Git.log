@@ -1,0 +1,17 @@
+2023-11-18 23:42:40.076 [info] Log level: Info
+2023-11-18 23:42:40.076 [info] Validating found git in: "git"
+2023-11-18 23:42:40.076 [info] Using git "2.42.1" from "git"
+2023-11-18 23:42:40.076 [info] > git rev-parse --show-toplevel [5ms]
+2023-11-18 23:42:40.076 [info] > git rev-parse --git-dir --git-common-dir [4ms]
+2023-11-18 23:42:40.076 [info] Open repository: /home/min/midi
+2023-11-18 23:42:40.096 [info] > git rev-parse --show-toplevel [3ms]
+2023-11-18 23:42:40.098 [info] > git config --get commit.template [12ms]
+2023-11-18 23:42:40.116 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2023-11-18 23:42:40.141 [info] > git status -z -uall [16ms]
+2023-11-18 23:42:40.168 [info] > git config --get commit.template [9ms]
+2023-11-18 23:42:40.168 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2023-11-18 23:42:40.253 [info] > git status -z -uall [74ms]
+2023-11-18 23:42:40.616 [info] > git check-ignore -v -z --stdin [4ms]
+2023-11-18 23:42:44.702 [info] > git show --textconv :config.py [9ms]
+2023-11-18 23:42:44.704 [info] > git ls-files --stage -- /home/min/midi/config.py [2ms]
+2023-11-18 23:42:44.715 [info] > git cat-file -s 94326a666f88803e6fbd899f002c4d264158ea66 [2ms]

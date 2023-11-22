@@ -126,7 +126,7 @@ import:
 # Font configuration
 font:
   normal:
-    family: FantasqueSansMono Nerd Font
+    family: FantasqueSansM Nerd Font
     style: Regular
   size: 17.0
 

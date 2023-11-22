@@ -1,0 +1,14 @@
+2023-11-18 23:42:53.067 [info] Getting Manifest... auiworks.amvim
+2023-11-18 23:42:53.198 [info] Installing extension: auiworks.amvim
+2023-11-18 23:42:53.734 [info] Extension signature verification is not done: auiworks.amvim
+2023-11-18 23:42:53.775 [info] Extracted extension to file:///home/min/.vscode-oss/extensions/auiworks.amvim-1.36.0-universal: auiworks.amvim
+2023-11-18 23:42:53.778 [info] Renamed to /home/min/.vscode-oss/extensions/auiworks.amvim-1.36.0-universal
+2023-11-18 23:42:53.779 [info] Extracting extension completed. auiworks.amvim
+2023-11-18 23:42:53.795 [info] Extension installed successfully: auiworks.amvim
+2023-11-18 23:42:53.883 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/min/.vscode-oss/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/min/.vscode-oss/extensions/extensions.json.vsctmp'
+    at r.create (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30053)
+    at a (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30167)
+    at s.fb (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36175)
+    at s.stat (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:28621)
+    at async E.stat (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:15732)
+    at async K.tb (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:9535)
