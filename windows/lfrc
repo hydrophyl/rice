@@ -1,0 +1,38 @@
+# This file located at C:\Users\forev\AppData\Local\lf\lfrc
+
+set hidden true
+set ignorecase true
+set icons true
+set filesep " "
+set scrolloff 10
+# quick rename using r
+cmd rename %sh -c 'mv -i %f% $0'
+map r push :rename<space>
+# reload config file using f5
+map <f-5> push :source<space>C:/Users/forev/AppData/Local/lf/lfrc<enter>
+# use a and A to create files and directories
+cmd createfile %sh -c 'touch $0'
+cmd createdir %sh -c 'mkdir $0'
+map a push :createfile<space>
+map A push :createdir<space>
+# open explorer in current directory
+map S push &start.<enter>
+# copy file path
+map Y %echo %fx% | clip 
+# open file in nvim
+map V &nvim-qt %f%
+# archive management
+cmd zip %sh -c '7z a $0 %fx%'
+cmd extract_here %sh -c '7z e %f%'
+cmd extract_to %sh -c '7z e %f% -o$0'
+map d # leave the command name empty like this for unmapping
+map x cut
+map y copy
+map dd delete
+map dD $IFS=':'; rm -rf $fx
+map gd cd ~/Documents
+map gD cd ~/Downloads
+# use c-f to fuzzy search
+cmd fzf_jump push $python<space>C:/Users/forev/AppData/Local/lf/lf_scripts/fzfpy.py<space>%id%<enter>
+map <c-f> :fzf_jump
+

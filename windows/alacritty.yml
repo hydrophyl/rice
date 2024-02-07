@@ -1,0 +1,19 @@
+# This file located at C:\Users\forev\AppData\Roaming\alacritty\alacritty.yml
+#
+
+import:
+  - C:\\Users\\forev\\AppData\\Roaming\\alacritty\\themes\\themes\\taerminal.yaml
+font:
+  normal:
+    family: 'Lekton Nerd Font'
+  size: 19.0
+cursor:
+  style: Block
+  unfocused_hollow: true
+shell:
+  program: C:\\Users\\forev\\AppData\\Local\\Microsoft\\WindowsApps\\Microsoft.PowerShell_8wekyb3d8bbwe\\pwsh.exe  
+  args: ["--nologo"]
+key_bindings: 
+  - { key: Return, mods: Control|Shift, action: SpawnNewInstance }
+working_directory: C:/Users/forev
+
