@@ -1,5 +1,0 @@
-2023-11-18 23:29:47.278 [info] update#setState disabled
-2023-11-18 23:29:47.278 [info] update#ctor - updates are disabled as there is no update URL
-2023-11-18 23:30:24.289 [error] Blocked vscode-webview request vscode-webview://0jfnb60la2dqij3ti2gsadbnibvt91t1mkgh6bts1pq802k7alfc/index.html?id=f52b945d-44e6-4f66-88fe-0b2e1991bb87&origin=f52b945d-44e6-4f66-88fe-0b2e1991bb87&swVersion=4&extensionId=&platform=electron&vscode-resource-base-authority=vscode-resource.vscode-cdn.net&parentOrigin=vscode-file%3A%2F%2Fvscode-app
-2023-11-18 23:30:24.309 [error] CodeWindow: failed to load (reason: ERR_BLOCKED_BY_CLIENT, code: -20)
-2023-11-18 23:31:02.916 [info] Extension host with pid 4800 exited with code: 0, signal: unknown.
